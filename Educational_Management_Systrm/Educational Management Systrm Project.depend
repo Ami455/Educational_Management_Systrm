@@ -1,0 +1,345 @@
+# depslib dependency file v1.0
+1734946845 source:c:\studying\from pc\programming after graduation\mostafa saad\codes\educational management systrm project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<utility>
+	<stack>
+	<queue>
+	<deque>
+
+1736326967 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	<tuple>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"assignment_solution.h"
+	"helper.h"
+	"students_manager.h"
+	"doctors_manager.h"
+	"courses_manager.h"
+	"user_flow_controller.h"
+
+1736323021 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\student.h
+	<tuple>
+	<map>
+
+1736326914 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\doctor.h
+
+1736309820 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\assignment.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+
+1736311227 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\doctor.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+
+1736323021 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\student.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"assignment_solution.h"
+
+1736312464 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\assignment.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\course.h
+
+1736309820 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\course.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+
+1735297094 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\assignment_solution.cpp
+
+1736340157 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\courses_manager.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"assignment_solution.h"
+	"courses_manager.h"
+	"students_manager.h"
+	"doctors_manager.h"
+	"helper.h"
+
+1736341378 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\doctor_flow_controller.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"assignment_solution.h"
+	"doctor_flow_controller.h"
+	"doctors_manager.h"
+	"courses_manager.h"
+	"helper.h"
+
+1736317637 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\doctors_manager.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"doctors_manager.h"
+	"helper.h"
+
+1736340477 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\student_flow_controller.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"assignment_solution.h"
+	"student_flow_controller.h"
+	"students_manager.h"
+	"courses_manager.h"
+	"helper.h"
+
+1736315995 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\students_manager.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"students_manager.h"
+	"helper.h"
+
+1736327258 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\user_flow_controller.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"user_flow_controller.h"
+	"student_flow_controller.h"
+	"doctor_flow_controller.h"
+	"helper.h"
+
+1736312464 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\assignment_solution.h
+
+1736328059 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\courses_manager.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\student_flow_controller.h
+
+1736396572 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\doctor_flow_controller.h
+
+1736309820 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\user_flow_controller.h
+
+1736309820 source:c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\helper.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	<sstream>
+	<cassert>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"helper.h"
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\helper.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	<sstream>
+	<cassert>
+	<vector>
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\students_manager.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\my codes\educational management systrm project\doctors_manager.h
+
+1735297094 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\assignment_solution.cpp
+
+1736309820 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\assignment.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+
+1736312464 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\assignment.h
+
+1736482630 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\student.h
+	<tuple>
+	<map>
+
+1736482978 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\course.h
+
+1736326914 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\doctor.h
+
+1736483209 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\course.cpp
+	"helper.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\courses_manager.cpp
+	"helper.h"
+	"courses_manager.h"
+	"students_manager.h"
+	"doctors_manager.h"
+
+1736312464 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\assignment_solution.h
+
+1736328059 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\courses_manager.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\students_manager.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\doctors_manager.h
+
+1736483036 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\helper.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	<sstream>
+	<cassert>
+	<vector>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"assignment_solution.h"
+	"user_flow_controller.h"
+	"student_flow_controller.h"
+	"doctor_flow_controller.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\doctor.cpp
+	"helper.h"
+
+1736483694 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\doctor_flow_controller.cpp
+	"helper.h"
+	"doctors_manager.h"
+	"courses_manager.h"
+
+1736396572 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\doctor_flow_controller.h
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\doctors_manager.cpp
+	"helper.h"
+	"doctors_manager.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\main.cpp
+	"helper.h"
+	"students_manager.h"
+	"doctors_manager.h"
+	"courses_manager.h"
+
+1736482326 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\user_flow_controller.h
+
+1736482667 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\student.cpp
+	"helper.h"
+	"student.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\student_flow_controller.cpp
+	"helper.h"
+	"students_manager.h"
+	"courses_manager.h"
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\student_flow_controller.h
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\students_manager.cpp
+	"helper.h"
+	"students_manager.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\user_flow_controller.cpp
+	"helper.h"
+	"user_flow_controller.h"
+
+1736482372 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\helper.cpp
+	"helper.h"
+
