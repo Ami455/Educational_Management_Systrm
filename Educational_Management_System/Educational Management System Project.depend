@@ -343,3 +343,100 @@
 1736482372 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_systrm\helper.cpp
 	"helper.h"
 
+1736483751 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\assignment.cpp
+	"helper.h"
+
+1736483036 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\helper.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<algorithm>
+	<cmath>
+	<utility>
+	<memory>
+	<sstream>
+	<cassert>
+	<vector>
+	"assignment.h"
+	"student.h"
+	"course.h"
+	"doctor.h"
+	"assignment_solution.h"
+	"user_flow_controller.h"
+	"student_flow_controller.h"
+	"doctor_flow_controller.h"
+
+1736312464 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\assignment.h
+
+1736482630 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\student.h
+	<tuple>
+	<map>
+
+1736482978 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\course.h
+
+1736326914 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\doctor.h
+
+1736312464 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\assignment_solution.h
+
+1736482326 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\user_flow_controller.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\student_flow_controller.h
+
+1736396572 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\doctor_flow_controller.h
+
+1736483751 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\assignment_solution.cpp
+	"helper.h"
+
+1736483209 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\course.cpp
+	"helper.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\courses_manager.cpp
+	"helper.h"
+	"courses_manager.h"
+	"students_manager.h"
+	"doctors_manager.h"
+
+1736328059 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\courses_manager.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\students_manager.h
+
+1736309821 c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\doctors_manager.h
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\doctor.cpp
+	"helper.h"
+
+1736483694 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\doctor_flow_controller.cpp
+	"helper.h"
+	"doctors_manager.h"
+	"courses_manager.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\doctors_manager.cpp
+	"helper.h"
+	"doctors_manager.h"
+
+1736482372 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\helper.cpp
+	"helper.h"
+
+1736482667 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\student.cpp
+	"helper.h"
+	"student.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\student_flow_controller.cpp
+	"helper.h"
+	"students_manager.h"
+	"courses_manager.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\students_manager.cpp
+	"helper.h"
+	"students_manager.h"
+
+1736482978 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\user_flow_controller.cpp
+	"helper.h"
+	"user_flow_controller.h"
+
+1736483772 source:c:\studying\from pc\programming after graduation\mostafa saad\git project\educational_management_system\main.cpp
+	"helper.h"
+	"students_manager.h"
+	"doctors_manager.h"
+	"courses_manager.h"
+
